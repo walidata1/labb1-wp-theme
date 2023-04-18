@@ -1,7 +1,7 @@
 ## Assignment 1 - Theme development
 The goal of this school assignment was to create a theme based on HTML files. The assignment was to convert static HTML code into a WordPress theme.
 
-Link to repo (GitHub): https://github.com/walidata1/labb1-walid-khiyar
+Link to repo (GitHub): https://github.com/walidata1/labb1-wp-theme
 
 ## Instructions & requirements
 All students received a zip file with static HTML files for various page templates.
